@@ -12,7 +12,7 @@
 
     <properties>
         <config.basedir>${basedir}/../pmd-core</config.basedir>
-        <scala.version>2.10.4</scala.version>
+        <scala.version>2.10.7</scala.version>
     </properties>
 
     <build>
